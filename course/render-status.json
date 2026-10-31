@@ -1,0 +1,105 @@
+{
+  "renderer": "TouchDesigner",
+  "build": "2025.32460",
+  "images": [
+    {
+      "file": "shapes-before.png",
+      "operator": "circle",
+      "path": "/course_examples/shapes/circle1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "shapes-after.png",
+      "operator": "rectangle",
+      "path": "/course_examples/shapes/rectangle1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "generators-before.png",
+      "operator": "ramp",
+      "path": "/course_examples/generators/ramp1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "generators-after.png",
+      "operator": "null",
+      "path": "/course_examples/generators/out1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "transform-before.png",
+      "operator": "rectangle",
+      "path": "/course_examples/transform/source",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "transform-after.png",
+      "operator": "transform",
+      "path": "/course_examples/transform/transform1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "mask-before.png",
+      "operator": "noise",
+      "path": "/course_examples/mask/source",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "mask-after.png",
+      "operator": "edge",
+      "path": "/course_examples/mask/edge1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "blur-before.png",
+      "operator": "circle",
+      "path": "/course_examples/blur/source",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "blur-after.png",
+      "operator": "blur",
+      "path": "/course_examples/blur/blur1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "composite-before.png",
+      "operator": "circle",
+      "path": "/course_examples/composite/first",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "composite-after.png",
+      "operator": "comp",
+      "path": "/course_examples/composite/composite1",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "displace-before.png",
+      "operator": "ramp",
+      "path": "/course_examples/displace/source",
+      "width": 256,
+      "height": 256
+    },
+    {
+      "file": "displace-after.png",
+      "operator": "displace",
+      "path": "/course_examples/displace/displace1",
+      "width": 256,
+      "height": 256
+    }
+  ],
+  "errors": []
+}
