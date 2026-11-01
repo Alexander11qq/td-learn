@@ -9,7 +9,6 @@
         {
           "id": "timer",
           "type": "timerCHOP",
-          "name": "Timer_5s",
           "x": 0,
           "y": 0,
           "parameters": { "length": 5, "lengthunits": "seconds", "outdone": true }
@@ -17,7 +16,6 @@
         {
           "id": "done",
           "type": "selectCHOP",
-          "name": "Select_Done",
           "x": 270,
           "y": 0,
           "parameters": { "channames": "done" }
@@ -25,7 +23,6 @@
         {
           "id": "output",
           "type": "nullCHOP",
-          "name": "Null_Done",
           "x": 540,
           "y": 0,
           "parameters": {}
